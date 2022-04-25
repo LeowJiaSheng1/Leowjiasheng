@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  
+  
+  
+  
+  
+  <head>
+    <meta id="bb-bootstrap" data-current-user="{&quot;displayName&quot;: &quot;leow jiaxin&quot;, &quot;uuid&quot;: &quot;{c5d82fa6-8d9c-4a10-9637-c09485913fdf}&quot;, &quot;hasPremium&quot;: false, &quot;avatarUrl&quot;: &quot;https://secure.gravatar.com/avatar/2b38fc1dfa40de6e18f033d147d6ef86?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLJ-0.png&quot;, &quot;isTeam&quot;: false, &quot;isSshEnabled&quot;: false, &quot;mention_id&quot;: &quot;5d00ca19e0430f0bc91ba829&quot;, &quot;isKbdShortcutsEnabled&quot;: true, &quot;avatarUrl2x&quot;: &quot;https://secure.gravatar.com/avatar/2b38fc1dfa40de6e18f033d147d6ef86?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLJ-0.png&amp;s=64&quot;, &quot;nickname&quot;: &quot;leow jiaxin&quot;, &quot;id&quot;: 14556946, &quot;isAuthenticated&quot;: true}"
+data-atlassian-id="5d00ca19e0430f0bc91ba829" />
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bitbucket</title>
+    
+    
+
+
+<meta name="bb-env" content="production" />
+<meta id="bb-canon-url" name="bb-canon-url" content="https://bitbucket.org">
+<meta name="bb-api-canon-url" content="https://api.bitbucket.org">
+<meta name="apitoken" content="{&quot;token&quot;: &quot;GbWXR2gAvxtauiZYL7s_fb17ag2dO0MGzGwio7CTi5GXHLDx-WuIPusNhkdbV24meviXMQdd00DzTA9LIPmZYloOkMZd7g1LDngyDmtOemVBfjVq&quot;, &quot;expiration&quot;: 1564496286.532721}">
+
+<meta name="bb-commit-hash" content="ffdb2ffc53c0">
+<meta name="bb-app-node" content="app-167">
+<meta name="bb-view-name" content="bitbucket.apps.repo2.views.filebrowse">
+<meta name="ignore-whitespace" content="False">
+<meta name="tab-size" content="None">
+<meta name="locale" content="en">
+<meta name="application-name" content="Bitbucket">
+<meta name="apple-mobile-web-app-title" content="Bitbucket">
+<meta name="slack-app-id" content="A8W8QLZD1">
+<meta name="statuspage-api-host" content="https://bqlf8qjztdtr.statuspage.io">
+
+
+<meta name="theme-color" content="#0049B0">
+<meta name="msapplication-TileColor" content="#0052CC">
+<meta name="msapplication-TileImage" content="https://d301sr5gafysq2.cloudfront.net/ffdb2ffc53c0/img/logos/bitbucket/mstile-150x150.png">
+<link rel="apple-touch-icon" sizes="180x180" type="image/png" href="https://d301sr5gafysq2.cloudfront.net/ffdb2ffc53c0/img/logos/bitbucket/apple-touch-icon.png">
+<link rel="icon" sizes="192x192" type="image/png" href="https://d301sr5gafysq2.cloudfront.net/ffdb2ffc53c0/img/logos/bitbucket/android-chrome-192x192.png">
+
+<link rel="icon" sizes="16x16 24x24 32x32 64x64" type="image/x-icon" href="/favicon.ico?v=2">
+<link rel="mask-icon" href="https://d301sr5gafysq2.cloudfront.net/ffdb2ffc53c0/img/logos/bitbucket/safari-pinned-tab.svg" color="#0052CC">
+
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Bitbucket">
+
+    <meta name="description" content="">
+    <meta name="bb-single-page-app" content="true">
+    
+      <script nonce="">
+        window.__jira_issue_collector_trigger_fns__ = window.__jira_issue_collector_trigger_fns__ || {};
+        window.ATL_JQ_PAGE_PROPS = window.ATL_JQ_PAGE_PROPS || {};
+        window.ATL_JQ_PAGE_PROPS["931a0921"] = window.ATL_JQ_PAGE_PROPS["931a0921"] || {};
+        window.ATL_JQ_PAGE_PROPS["931a0921"].triggerFunction = function(showCollectorDialog) {
+          window.__jira_issue_collector_trigger_fns__["931a0921"] = showCollectorDialog;
+        }
+      </script>
+    
+      <script nonce="">
+        window.__jira_issue_collector_trigger_fns__ = window.__jira_issue_collector_trigger_fns__ || {};
+        window.ATL_JQ_PAGE_PROPS = window.ATL_JQ_PAGE_PROPS || {};
+        window.ATL_JQ_PAGE_PROPS["c19c2ff6"] = window.ATL_JQ_PAGE_PROPS["c19c2ff6"] || {};
+        window.ATL_JQ_PAGE_PROPS["c19c2ff6"].triggerFunction = function(showCollectorDialog) {
+          window.__jira_issue_collector_trigger_fns__["c19c2ff6"] = showCollectorDialog;
+        }
+      </script>
+    
+      <script nonce="">
+        window.__jira_issue_collector_trigger_fns__ = window.__jira_issue_collector_trigger_fns__ || {};
+        window.ATL_JQ_PAGE_PROPS = window.ATL_JQ_PAGE_PROPS || {};
+        window.ATL_JQ_PAGE_PROPS["bb066400"] = window.ATL_JQ_PAGE_PROPS["bb066400"] || {};
+        window.ATL_JQ_PAGE_PROPS["bb066400"].triggerFunction = function(showCollectorDialog) {
+          window.__jira_issue_collector_trigger_fns__["bb066400"] = showCollectorDialog;
+        }
+      </script>
+    
+    
+    <script nonce="">
+
+if (window.performance) {
+
+  
+  window.performance.okayToSendMetrics = !document.hidden && 'onvisibilitychange' in document;
+
+  if (window.performance.okayToSendMetrics) {
+
+    
+    window.addEventListener('visibilitychange', function () {
+      if (document.hidden) {
+        window.performance.okayToSendMetrics = false;
+      }
+    });
+  }
+}
+</script>
+    
+    
+      
+        <link rel="stylesheet" href="https://d301sr5gafysq2.cloudfront.net/frontbucket/vendor.1e7fb924f5f8.css">
+      
+      
+    
+    
+  </head>
+  <body>
+    <div id="root">
+    
+    </div>
+    <script nonce="">
+      window.__sentry__ = {"dsn": "https://2dcda83904474d8c86928ebbfa1ab294@sentry.io/1480772", "environment": "production"};
+      window.__initial_state__ = {"section": {"repository": {"connectActions": [], "cloneProtocol": "https", "currentRepository": {"scm": "git", "website": "", "name": "Coventry_FYP_RomUddamvathanak", "language": "python", "description": "Ensemble Methods as well as Convolutional Neural Network Source code for Final year project for Bachelor Degree with Honour in Computer Science, Coventry University.", "links": {"clone": [{"href": "https://leowjiaxin97@bitbucket.org/uddamvathanak/coventry_fyp_romuddamvathanak.git", "name": "https"}, {"href": "git@bitbucket.org:uddamvathanak/coventry_fyp_romuddamvathanak.git", "name": "ssh"}], "self": {"href": "https://bitbucket.org/!api/2.0/repositories/uddamvathanak/coventry_fyp_romuddamvathanak"}, "html": {"href": "https://bitbucket.org/uddamvathanak/coventry_fyp_romuddamvathanak"}, "avatar": {"href": "https://bytebucket.org/ravatar/%7B1f19191a-4c45-4f02-9014-5a4e9d9dbe94%7D?ts=python"}}, "mainbranch": {"name": "master"}, "full_name": "uddamvathanak/coventry_fyp_romuddamvathanak", "owner": {"has_2fa_enabled": null, "display_name": "rom uddamvathanak", "uuid": "{50918182-85f0-49ac-a2f3-de702d547916}", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/users/%7B50918182-85f0-49ac-a2f3-de702d547916%7D"}, "html": {"href": "https://bitbucket.org/%7B50918182-85f0-49ac-a2f3-de702d547916%7D/"}, "avatar": {"href": "https://secure.gravatar.com/avatar/83f194acedbb9297e504e9ce0c3f86b1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRU-4.png"}}, "type": "user", "created_on": "2018-04-11T06:15:00.104196+00:00", "is_staff": false, "account_status": "active", "nickname": "uddamvathanak", "properties": {}, "account_id": "5acda537e378d62b3bb35d2f"}, "updated_on": "2018-10-17T14:34:33.357183+00:00", "type": "repository", "slug": "coventry_fyp_romuddamvathanak", "is_private": false, "uuid": "{1f19191a-4c45-4f02-9014-5a4e9d9dbe94}"}, "mirrors": [], "menuItems": [{"analytics_label": "repository.source", "is_client_link": true, "icon_class": "icon-source", "badge_label": null, "weight": 200, "url": "/uddamvathanak/coventry_fyp_romuddamvathanak/src", "tab_name": "source", "can_display": true, "label": "Source", "type": "menu_item", "anchor": true, "analytics_payload": {}, "matching_url_prefixes": ["/diff", "/history-node"], "target": "_self", "id": "repo-source-link", "icon": "icon-source"}, {"analytics_label": "repository.commits", "is_client_link": true, "icon_class": "icon-commits", "badge_label": null, "weight": 300, "url": "/uddamvathanak/coventry_fyp_romuddamvathanak/commits/", "tab_name": "commits", "can_display": true, "label": "Commits", "type": "menu_item", "anchor": true, "analytics_payload": {}, "matching_url_prefixes": [], "target": "_self", "id": "repo-commits-link", "icon": "icon-commits"}, {"analytics_label": "repository.branches", "is_client_link": true, "icon_class": "icon-branches", "badge_label": null, "weight": 400, "url": "/uddamvathanak/coventry_fyp_romuddamvathanak/branches/", "tab_name": "branches", "can_display": true, "label": "Branches", "type": "menu_item", "anchor": true, "analytics_payload": {}, "matching_url_prefixes": [], "target": "_self", "id": "repo-branches-link", "icon": "icon-branches"}, {"analytics_label": "repository.pullrequests", "is_client_link": true, "icon_class": "icon-pull-requests", "badge_label": null, "weight": 500, "url": "/uddamvathanak/coventry_fyp_romuddamvathanak/pull-requests/", "tab_name": "pullrequests", "can_display": true, "label": "Pull requests", "type": "menu_item", "anchor": true, "analytics_payload": {}, "matching_url_prefixes": [], "target": "_self", "id": "repo-pullrequests-link", "icon": "icon-pull-requests"}, {"analytics_label": "user.addon", "is_client_link": false, "icon_class": "aui-iconfont-unfocus", "badge_label": null, "weight": 550, "url": "/uddamvathanak/coventry_fyp_romuddamvathanak/addon/pipelines/home", "tab_name": "repopage-oB98xE-add-on-link", "can_display": true, "label": "Pipelines", "icon_url": "https://bitbucket-connect-icons.s3.amazonaws.com/add-on/icons/62acf41d-386f-49fd-b823-4f86445390e2.svg", "anchor": true, "analytics_payload": {}, "matching_url_prefixes": [], "type": "connect_menu_item", "id": "repopage-oB98xE-add-on-link", "target": "_self"}, {"analytics_label": "user.addon", "is_client_link": false, "icon_class": "aui-iconfont-unfocus", "badge_label": null, "weight": 560, "url": "/uddamvathanak/coventry_fyp_romuddamvathanak/addon/pipelines/deployments", "tab_name": "repopage-yaM899-add-on-link", "can_display": true, "label": "Deployments", "icon_url": "https://bitbucket-connect-icons.s3.amazonaws.com/add-on/icons/fca72d46-7e20-4dc4-b6a8-c83fb9665cc6.svg", "anchor": true, "analytics_payload": {}, "matching_url_prefixes": [], "type": "connect_menu_item", "id": "repopage-yaM899-add-on-link", "target": "_self"}, {"analytics_label": "repository.downloads", "is_client_link": false, "icon_class": "icon-downloads", "badge_label": null, "weight": 800, "url": "/uddamvathanak/coventry_fyp_romuddamvathanak/downloads/", "tab_name": "downloads", "can_display": true, "label": "Downloads", "type": "menu_item", "anchor": true, "analytics_payload": {}, "matching_url_prefixes": [], "target": "_self", "id": "repo-downloads-link", "icon": "icon-downloads"}, {"analytics_label": "user.addon", "is_client_link": false, "icon_class": "aui-iconfont-unfocus", "badge_label": null, "weight": 100, "url": "/uddamvathanak/coventry_fyp_romuddamvathanak/addon/trello/trello-board", "tab_name": "repopage-raMr8g-add-on-link", "can_display": true, "label": "Boards", "icon_url": "https://bitbucket-connect-icons.s3.amazonaws.com/add-on/icons/35ceae0c-17b1-443c-a6e8-d9de1d7cccdb.svg", "anchor": false, "analytics_payload": {}, "matching_url_prefixes": [], "type": "connect_menu_item", "id": "repopage-raMr8g-add-on-link", "target": "_self"}], "bitbucketActions": [{"analytics_label": "repository.clone", "is_client_link": false, "icon_class": "icon-clone", "badge_label": null, "weight": 100, "url": "#clone", "tab_name": "clone", "can_display": true, "label": "<strong>Clone<\/strong> this repository", "type": "menu_item", "anchor": true, "analytics_payload": {}, "matching_url_prefixes": [], "target": "_self", "id": "repo-clone-button", "icon": "icon-clone"}, {"analytics_label": "repository.compare", "is_client_link": false, "icon_class": "aui-icon-small aui-iconfont-devtools-compare", "badge_label": null, "weight": 400, "url": "/uddamvathanak/coventry_fyp_romuddamvathanak/branches/compare", "tab_name": "compare", "can_display": true, "label": "<strong>Compare<\/strong> branches or tags", "type": "menu_item", "anchor": true, "analytics_payload": {}, "matching_url_prefixes": [], "target": "_self", "id": "repo-compare-link", "icon": "aui-icon-small aui-iconfont-devtools-compare"}, {"analytics_label": "repository.fork", "is_client_link": false, "icon_class": "icon-fork", "badge_label": null, "weight": 500, "url": "/uddamvathanak/coventry_fyp_romuddamvathanak/fork", "tab_name": "fork", "can_display": true, "label": "<strong>Fork<\/strong> this repository", "type": "menu_item", "anchor": true, "analytics_payload": {}, "matching_url_prefixes": [], "target": "_self", "id": "repo-fork-link", "icon": "icon-fork"}], "activeMenuItem": "source"}}, "global": {"theme": null, "features": {"crf-skip-excessive-diffs": true, "exp-share-to-invite-variation": false, "workspace-membership-access": true, "whitelisted_throttle_exemption": true, "workspaces-api-proxy": true, "account-switcher": true, "gdpr-mode": true, "show-billing-errors": true, "show-guidance-message": true, "restrict-commit-author-data": true, "nav-add-file": false, "spa-dashboard-repository-list": true, "app-switcher": true, "provisioning-api-jira-integration": true, "markdown-embedded-html": false, "clonebundles": true, "prlinks-installer": true, "pride-logo": false, "enable-router-metrics": true, "provisioning-auto-login": true, "diff-api-renames": true, "clone-in-xcode": true, "create-pr-dialog": true, "twofactor-recovery-flow": true, "new-code-review": false, "use-moneybucket": true, "statuspage-incident-message": true, "atlassian-editor": true, "force-old-code-review": false, "frontbucket-leave-repository": true, "support-admin-notifications": true, "new-source-browser": true, "identity-passthrough-percent": true, "exp-new-user-survey": true, "evolution": false, "spa-commit-list": true, "change-branch-type-mapping-for-jira-issue-type-bug": true, "add-commit-authors-as-reviewers": true, "allow-pullrequest-live-reviewers": true}, "locale": "en", "importBitbucketActions": [{"analytics_label": null, "is_client_link": false, "icon_class": "", "badge_label": null, "weight": 100, "url": "/repo/import", "tab_name": null, "can_display": true, "label": "<strong>Repository<\/strong>", "type": "menu_item", "anchor": true, "analytics_payload": {}, "matching_url_prefixes": [], "target": "_self", "id": "repository-import-drawer-item", "icon": ""}], "browser_monitoring": true, "isCodeReviewWelcomeDialogOpen": true, "is_mobile_user_agent": false, "site_message": "", "path": "/uddamvathanak/coventry_fyp_romuddamvathanak/src/master/2ndPaper/result/2ensemble/stack_mean_combined5.csv", "currentUser": {"has_2fa_enabled": null, "display_name": "leow jiaxin", "uuid": "{c5d82fa6-8d9c-4a10-9637-c09485913fdf}", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/users/%7Bc5d82fa6-8d9c-4a10-9637-c09485913fdf%7D"}, "html": {"href": "https://bitbucket.org/%7Bc5d82fa6-8d9c-4a10-9637-c09485913fdf%7D/"}, "avatar": {"href": "https://secure.gravatar.com/avatar/2b38fc1dfa40de6e18f033d147d6ef86?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FLJ-0.png"}}, "extra": {"has_ssh_key": false, "has_atlassian_account": true}, "type": "user", "created_on": "2019-06-12T09:47:42.669844+00:00", "is_staff": false, "account_status": "active", "nickname": "leow jiaxin", "properties": {}, "account_id": "5d00ca19e0430f0bc91ba829"}, "bitbucketActions": [{"analytics_label": null, "is_client_link": false, "icon_class": "", "badge_label": null, "weight": 100, "url": "/repo/create?owner=uddamvathanak", "tab_name": null, "can_display": true, "label": "<strong>Repository<\/strong>", "type": "menu_item", "anchor": true, "analytics_payload": {}, "matching_url_prefixes": [], "target": "_self", "id": "repository-create-drawer-item", "icon": ""}, {"analytics_label": null, "is_client_link": false, "icon_class": "", "badge_label": null, "weight": 110, "url": "/account/create-team/", "tab_name": null, "can_display": true, "label": "<strong>Team<\/strong>", "type": "menu_item", "anchor": true, "analytics_payload": {}, "matching_url_prefixes": [], "target": "_self", "id": "team-create-drawer-item", "icon": ""}, {"analytics_label": null, "is_client_link": false, "icon_class": "", "badge_label": null, "weight": 120, "url": "/account/projects/create?owner=uddamvathanak", "tab_name": null, "can_display": true, "label": "<strong>Project<\/strong>", "type": "menu_item", "anchor": true, "analytics_payload": {}, "matching_url_prefixes": [], "target": "_self", "id": "project-create-drawer-item", "icon": ""}, {"analytics_label": null, "is_client_link": false, "icon_class": "", "badge_label": null, "weight": 130, "url": "/snippets/new?owner=uddamvathanak", "tab_name": null, "can_display": true, "label": "<strong>Snippet<\/strong>", "type": "menu_item", "anchor": true, "analytics_payload": {}, "matching_url_prefixes": [], "target": "_self", "id": "snippet-create-drawer-item", "icon": ""}], "needs_marketing_consent": false, "isCommitViewSidebarOpen": true, "targetUser": {"has_2fa_enabled": null, "display_name": "rom uddamvathanak", "uuid": "{50918182-85f0-49ac-a2f3-de702d547916}", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/users/%7B50918182-85f0-49ac-a2f3-de702d547916%7D"}, "html": {"href": "https://bitbucket.org/%7B50918182-85f0-49ac-a2f3-de702d547916%7D/"}, "avatar": {"href": "https://secure.gravatar.com/avatar/83f194acedbb9297e504e9ce0c3f86b1?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRU-4.png"}}, "type": "user", "created_on": "2018-04-11T06:15:00.104196+00:00", "is_staff": false, "account_status": "active", "nickname": "uddamvathanak", "properties": {}, "account_id": "5acda537e378d62b3bb35d2f"}, "geoip_country": "SG", "hasSeenPrivacySettingsAnnouncement": false, "targetFeatures": {"crf-skip-excessive-diffs": true, "workspace-membership-access": true, "whitelisted_throttle_exemption": true, "workspaces-api-proxy": true, "account-switcher": true, "gdpr-mode": true, "show-billing-errors": true, "show-guidance-message": true, "restrict-commit-author-data": true, "spa-dashboard-repository-list": true, "app-switcher": true, "provisioning-api-jira-integration": true, "markdown-embedded-html": false, "clonebundles": true, "prlinks-installer": true, "pride-logo": false, "diff-api-20-refactor": true, "enable-router-metrics": true, "provisioning-auto-login": true, "diff-api-renames": true, "clone-in-xcode": true, "create-pr-dialog": true, "twofactor-recovery-flow": true, "new-code-review": false, "use-moneybucket": true, "statuspage-incident-message": true, "atlassian-editor": true, "force-old-code-review": false, "frontbucket-leave-repository": true, "support-admin-notifications": true, "new-source-browser": true, "identity-passthrough-percent": true, "exp-new-user-survey": true, "evolution": false, "spa-commit-list": true, "change-branch-type-mapping-for-jira-issue-type-bug": true, "add-commit-authors-as-reviewers": true, "allow-pullrequest-live-reviewers": true}, "isFocusedTask": false, "teams": [], "identityPassthroughEnabled": true, "isCodeReviewSidebarOpen": true, "flags": [], "isNavigationOpen": true, "focusedTaskBackButtonUrl": "https://bitbucket.org/uddamvathanak/coventry_fyp_romuddamvathanak/src/master/2ndPaper/result/2ensemble/", "isSourceBrowserSidebarOpen": false, "whats_new_feed": "https://bitbucket.org/blog/wp-json/wp/v2/posts?categories=196&context=embed&per_page=6&orderby=date&order=desc"}, "repository": {"source": {"section": {"hash": "80a805c3059e8d18d3db462e6529daaf382621f2", "atRef": null, "ref": {"name": "master", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/repositories/uddamvathanak/coventry_fyp_romuddamvathanak/refs/branches/master"}, "html": {"href": "https://bitbucket.org/uddamvathanak/coventry_fyp_romuddamvathanak/branch/master"}}, "target": {"type": "commit", "hash": "80a805c3059e8d18d3db462e6529daaf382621f2", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/repositories/uddamvathanak/coventry_fyp_romuddamvathanak/commit/80a805c3059e8d18d3db462e6529daaf382621f2"}, "html": {"href": "https://bitbucket.org/uddamvathanak/coventry_fyp_romuddamvathanak/commits/80a805c3059e8d18d3db462e6529daaf382621f2"}}}}, "showCloneGuidance": true}}}};
+      window.__settings__ = {"MARKETPLACE_TERMS_OF_USE_URL": null, "JIRA_ISSUE_COLLECTORS": {"branching-model": {"url": "https://bitbucketfeedback.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/g2txgs/b/33/e73395c53c3b10fde2303f4bf74ffbf6/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector-embededjs/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector-embededjs.js?locale=en-UK&collectorId=931a0921", "id": "931a0921"}, "source-browser": {"url": "https://bitbucketfeedback.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-tqnsjm/b/20/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=c19c2ff6", "id": "c19c2ff6"}, "code-review": {"url": "https://bitbucketfeedback.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-4bqv2z/b/20/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=bb066400", "id": "bb066400"}}, "CANON_URL": "https://bitbucket.org", "AVAILABLE_SITES_URL": "https://api-private.atlassian.com/available-sites", "CONSENT_HUB_FRONTEND_BASE_URL": "https://preferences.atlassian.com", "API_CANON_URL": "https://api.bitbucket.org", "SOCIAL_AUTH_ATLASSIANID_LOGOUT_URL": "https://id.atlassian.com/logout", "EMOJI_STANDARD_BASE_URL": "https://api-private.atlassian.com/emoji/"};
+      window.__webpack_nonce__ = '';
+      window.isInitialLoadApdex = true;
+    </script>
+    
+      <script nonce="">
+        window.__webpack_public_path__ = 'https://d301sr5gafysq2.cloudfront.net/frontbucket/';
+      </script>
+      <script nonce="" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/locales/en.4188977b7fcf86ab1bd5.js"></script>
+        <script nonce="" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/runtime.97b52c45889f6765eb2f.js"></script>
+        <script nonce="" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/vendor.a4b6b69d2648addcf8e7.js"></script>
+
+      <!-- NOTE: we need ajs to load before app.js otherwise connect may not work -->
+        <script nonce="" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/ajs.a9488340379ede07529d.js"></script>
+      <script nonce="" src="https://d301sr5gafysq2.cloudfront.net/frontbucket/app.ad7df3c5f7d925fe75aa.js"></script>
+        <script nonce="" defer src="https://d301sr5gafysq2.cloudfront.net/frontbucket/performance-timing.50232f594b0efcb637d1.js"></script>
+    
+    
+      <script nonce="" defer src="https://bitbucketfeedback.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/g2txgs/b/33/e73395c53c3b10fde2303f4bf74ffbf6/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector-embededjs/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector-embededjs.js?locale=en-UK&amp;collectorId=931a0921"></script>
+    
+      <script nonce="" defer src="https://bitbucketfeedback.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-tqnsjm/b/20/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&amp;collectorId=c19c2ff6"></script>
+    
+      <script nonce="" defer src="https://bitbucketfeedback.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-4bqv2z/b/20/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&amp;collectorId=bb066400"></script>
+    
+    
+  </body>
+</html>
